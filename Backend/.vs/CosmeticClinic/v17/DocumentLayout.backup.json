@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF96D6CA-ACCA-417E-969A-4A13EE4802D0}|Server\\Server.csproj|c:\\users\\user\\desktop\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\backend\\server\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF96D6CA-ACCA-417E-969A-4A13EE4802D0}|Server\\Server.csproj|solutionrelative:server\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF96D6CA-ACCA-417E-969A-4A13EE4802D0}|Server\\Server.csproj|c:\\users\\user\\desktop\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\backend\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF96D6CA-ACCA-417E-969A-4A13EE4802D0}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Backend\\Server\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Backend\\Server\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:20:50.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Backend\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Backend\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:20:42.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
